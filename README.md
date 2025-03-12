@@ -29,3 +29,7 @@ Enterprise from
 
 Is Woke
 Like
+
+Sentimisma  iespaida panela godamkari augsupladesim pabeigtu pilnvertigu uzstadijumu Windows 11 IoT formatu komplicets ar Windows 10 education N pamatu tikai del tam pasam izciltspejam
+ne
+jav automizets vainizveidots

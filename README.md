@@ -1,10 +1,11 @@
 ## Hi there 👋
 ------
--
--
--
--
--
+-Rake
+-Aita
+-Plow
+-Erda
+-Ne
+
 dow jone
 Enterprise redistribution
 Since world wide web wears off appearance.

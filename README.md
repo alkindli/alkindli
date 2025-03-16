@@ -39,3 +39,6 @@ I hereby am a child
 I hereby am privacy policy
 I hereby will feed the world
 I hereby wood with as is one to in it.
+I hereby am world to each. Same as each to world almost.
+I hereby control friends and friend friends
+I hereby Am I in I myself who acquires formation.

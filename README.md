@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 ------
 -Rake
 -Aita
@@ -137,4 +137,10 @@ Theories.        Facts.
   Do you need equilent policy submission as notary for being credited or academic or beneficial? 
 Because as in Other Educational Services where by or in were not by?
  Just morsas... and shown to hide by.
+
+
+
+
+
+Shalt submit cool video, about microsoft "enterprise" security. Develops these things in respect to the Current Programming Language and Electricity without  further a due no more code is neccessary. More code is neccessary if these are taken per stuff notice.
 

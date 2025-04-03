@@ -149,3 +149,8 @@ I have been thinking - in couple of years how foolishness is mostly found not ot
 
 
 Many things that avert falling behind just to seek performance to the direction making every community useless.
+
+Stand still data cannot pull data to kilobytes. 
+Stand still data cannot effect cryptocurrencies as are any website.
+Stand still data is artificial not upload or download.
+Stand still data still has signal higher than wide range.

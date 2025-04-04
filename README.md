@@ -156,6 +156,6 @@ Stand still data is artificial not upload or download.
 Stand still data still has signal higher than wide range.
 
 
-Asking doguring out how follium reacts to data.
+Asking, figuring out how follium cuts through and reacts data mostly phones.
 
 

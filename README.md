@@ -154,7 +154,7 @@ Stand still data cannot pull data to kilobytes.
 Stand still data cannot effect cryptocurrencies as are any website.
 Stand still data is artificial not upload or download.
 Stand still data still has signal higher than wide range.
-
+The data that comes in, download itself and between applications is the hardest here.
 
 Asking, figuring out how follium cuts through and reacts data mostly phones.
 

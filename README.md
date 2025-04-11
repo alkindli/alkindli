@@ -29,8 +29,9 @@ Is Woke.
 
  Fulfilled setup where Windows 11 IoT format is complicated with Windows 10 education N format, so platformed for the same tactic.
   Not automatic (user), or not made (source).
+Adding in middle Embedding Industry Standard LTSC Windows 8 before Windows 10 education N.
  Fulfilled setup Windows 7 Pro formst complicated with Windows 7 Beginner format.
-  Yes.
+  Yes. This is a way to deploy fully repairable system.
 
 I hereby am a child
 I hereby am privacy policy

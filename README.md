@@ -32,6 +32,7 @@ Is Woke.
 Adding in middle Embedding Industry Standard LTSC Windows 8 before Windows 10 education N.
  Fulfilled setup Windows 7 Pro formst complicated with Windows 7 Beginner format.
   Yes. This is a way to deploy fully repairable system.
+Oh. Seems it does not like Setup progress of whatever you deploy after Windows 8 nor OOBE. Nor does it like any Windows 10 for desktop window manager. Should be deploying Windows 11 Education N in the end.
 
 I hereby am a child
 I hereby am privacy policy

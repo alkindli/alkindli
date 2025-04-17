@@ -166,7 +166,7 @@ Black wellfair. Like. Only to. If I.
 Two shells open, every window you see. Every right click - charger.
 
 "I never met anti schizophrenic in my life" that does not draw energy or a condolenser that talks to me.
-
+Something about file formats. What if we could. If application blocks a folder and add from it to web. Its a bit different.
 
 Couple of programs you may like
 PotPlayer

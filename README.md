@@ -180,9 +180,14 @@ _________________
 
 Two shells open, every window/tab/bot opened. Every right click - charger.
 
+Speaking of which the tensor flow on the Minimize, exit, crouch, maximize point.
+
 If application blocks a folder and add from it to web. Its a bit different.
 
 Files internally compress most of the formats go towards or to web not of in. Without limit cause of data. For real world, but not compelling in first place.
+
+Was thinking how to block the line between file formats that is mostly the default. I think...
+
 
 
 ________________

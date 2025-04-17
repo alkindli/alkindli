@@ -153,29 +153,39 @@ I have been thinking - in couple of years how foolishness is mostly found not ot
 
 Many things that avert falling behind just to seek performance to the direction making every community useless.
 
-Stand still data cannot pull data to kilobytes. 
+Stand still data cannot pull data to kilobytes.
+
+
 Stand still data cannot effect cryptocurrencies as are any website.
+
+
 Stand still data is artificial not upload or download.
+
+
 Stand still data still has signal higher than wide range.
+
+
 The data that comes in, download itself and between applications is the hardest here.
 
+
 Asking, figuring out how follium cuts through and reacts data mostly phones.
+
+_________________
 
 Black wellfair. Like. Only to. If I.
 
 Two shells open, every window you see. Every right click - charger.
 
+If application blocks a folder and add from it to web. Its a bit different.
+
 
 
 "I never met anti schizophrenic in my life" that does not draw energy or a condolenser that talks to me.
 
-
-If application blocks a folder and add from it to web. Its a bit different.
-
-Not capturing the gateway of currency.
-
-Couple of programs you may like.
+Couple of prog4rams you may like.
 PotPlayer
-XNviewMP
+XNviewMP4
 InfraView
 Format Factory
+
+Not capturing the gateway of currency.

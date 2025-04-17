@@ -173,8 +173,9 @@ Two shells open, every window you see. Every right click - charger.
 If application blocks a folder and add from it to web. Its a bit different.
 
 Not capturing the gateway of currency.
+
 Couple of programs you may like.
 PotPlayer
 XNviewMP
-Iview
-FFP
+InfraView
+Format Factory

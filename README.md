@@ -1,4 +1,4 @@
-## Hi there 👋  Condolenses to battery chieftan
+## Hi there 👋  Condolenses to battery chieftan.
 ------
 -Rake
 -Aita
@@ -6,7 +6,8 @@
 -Erda
 -Ne
 ------
-Publishing bait news on cir. clamp cigarette production muc. 
+Publishing bait news on cir. clamp cigarette production muc.
+Here's the gravity.
 
 dow jone:
 
@@ -196,12 +197,19 @@ ________________
 
 ________________
 
+This Policy is missing two or four reconsiderations for all out of optional and internet explorer setting forcing and may be triggered with CIP, but altogether it is not experimental and you will not have bad experience.
+
 Couple of programs you may like.
+
 PotPlayer
+
 XNviewMP4
+
 InfraView
+
 Format Factory
 
 ----------------
 
-Not capturing the gateway of currency. Tax between real broker and entry distance.
+Not capturing the gateway of currency. Tax between real broker exchange and in entry distance.
+No use.

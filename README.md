@@ -165,3 +165,11 @@ Black wellfair. Like. Only to. If I.
 
 Two shells open, every window you see. Every right click - charger.
 
+"I never met anti schizophrenic in my life" that does not draw energy or a condolenser that talks to me.
+
+
+Couple of programs you may like
+PotPlayer
+XNviewMP
+Iview
+FFP

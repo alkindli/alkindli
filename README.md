@@ -153,6 +153,8 @@ I have been thinking - in couple of years how foolishness is mostly found not ot
 
 Many things that avert falling behind just to seek performance to the direction making every community useless.
 
+__________________
+
 Stand still data cannot pull data to kilobytes.
 
 
@@ -174,18 +176,27 @@ _________________
 
 Black wellfair. Like. Only to. If I.
 
-Two shells open, every window you see. Every right click - charger.
+_________________
+
+Two shells open, every window/tab/bot opened. Every right click - charger.
 
 If application blocks a folder and add from it to web. Its a bit different.
 
+Files internally compress most of the formats go towards or to web not of in. Without limit cause of data. For real world, but not compelling in first place.
 
+
+________________
 
 "I never met anti schizophrenic in my life" that does not draw energy or a condolenser that talks to me.
 
-Couple of prog4rams you may like.
+________________
+
+Couple of programs you may like.
 PotPlayer
 XNviewMP4
 InfraView
 Format Factory
+
+----------------
 
 Not capturing the gateway of currency.

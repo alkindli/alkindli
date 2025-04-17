@@ -204,4 +204,4 @@ Format Factory
 
 ----------------
 
-Not capturing the gateway of currency.
+Not capturing the gateway of currency. Tax between real broker and entry distance.

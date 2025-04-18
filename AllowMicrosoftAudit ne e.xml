@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SiPolicy PolicyType="Base Policy" xmlns="urn:schemas-microsoft-com:sipolicy">
+  <VersionEx>1.0.0.0</VersionEx>
+  <PolicyID>{01963F6B-1954-7A13-A162-BAFADF61FA4C}</PolicyID>
+  <BasePolicyID>{01963F6B-1954-7A13-A162-BAFADF61FA4C}</BasePolicyID>
+  <PlatformID>{2E07F7E4-194C-4D20-B7C9-6F44A6C5A234}</PlatformID>
+  <Rules>
+    <Rule>
+      <Option>Enabled:UMCI</Option>
+    </Rule>
+    <Rule>
+      <Option>Required:WHQL</Option>
+    </Rule>
+    <Rule>
+      <Option>Enabled:Inherit Default Policy</Option>
+    </Rule>
+    <Rule>
+      <Option>Enabled:Unsigned System Integrity Policy</Option>
+    </Rule>
+    <Rule>
+      <Option>Enabled:Advanced Boot Options Menu</Option>
+    </Rule>
+    <Rule>
+      <Option>Required:Enforce Store Applications</Option>
+    </Rule>
+    <Rule>
+      <Option>Enabled:Update Policy No Reboot</Option>
+    </Rule>
+    <Rule>
+      <Option>Enabled:Allow Supplemental Policies</Option>
+    </Rule>
+    <Rule>
+      <Option>Enabled:Dynamic Code Security</Option>
+    </Rule>
+    <Rule>
+      <Option>Enabled:Revoked Expired As Unsigned</Option>
+    </Rule>
+    <Rule>
+      <Option>Enabled:Audit Mode</Option>
+    </Rule>
+    <Rule>
+      <Option>Required:EV Signers</Option>
+    </Rule>
+    <Rule>
+      <Option>Enabled:Boot Audit On Failure</Option>
+    </Rule>
+  </Rules>
+  <EKUs>
+    <EKU ID="ID_EKU_E_01963F6BE7D07B32A524EB6B89E784E201963F6BE7D072BA81D735E3FAC16E78" FriendlyName="Windows Store EKU - 1.3.6.1.4.1.311.76.3.1 Windows Store" Value="010A2B0601040182374C0301" />
+  </EKUs>
+  <FileRules>
+    <FileAttrib ID="ID_FILEATTRIB_A_01963F6BE7D078698D145CBC20AD436001963F6BE7D07427AB3700E28DB7828F" FriendlyName="RefreshPolicy.exe FileAttribute" FileName="RefreshPolicy.exe" MinimumFileVersion="10.0.19042.0" />
+  </FileRules>
+  <Signers>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D07C55AA3CBCFDC2D5579B01963F6BE7D0720187084DB11013EAE2" Name="Microsoft Code Signing PCA 2011">
+      <CertRoot Type="TBS" Value="F6F717A43AD9ABDDC8CEFDDE1C505462535E7D1307E630F9544A2D14FE8BF26E" />
+      <CertPublisher Value="Microsoft Corporation" />
+      <FileAttribRef RuleID="ID_FILEATTRIB_A_01963F6BE7D078698D145CBC20AD436001963F6BE7D07427AB3700E28DB7828F" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D0757D857F8F39541FCB3601963F6BE7D071EA8027A3CC462A719A" Name="MincryptKnownRootMicrosoftProductRoot1997">
+      <CertRoot Type="Wellknown" Value="04" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D07847BD34C2EDBE6034EF01963F6BE7D07F6FA8A7F3C982A29FD6" Name="MincryptKnownRootMicrosoftProductRoot2001">
+      <CertRoot Type="Wellknown" Value="05" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D076CD9507A4F0C31738AF01963F6BE7D07EF9872FE3B8B23D9278" Name="MincryptKnownRootMicrosoftProductRoot2010">
+      <CertRoot Type="Wellknown" Value="06" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D074BC8EFE54EA0700358201963F6BE7D07BA9ACCD7873F705B5DB" Name="MincryptKnownRootMicrosoftStandardRoot2011">
+      <CertRoot Type="Wellknown" Value="07" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D07CD0A6A2FA98F65E158F01963F6BE7D07C3983BDC03B54D283AC" Name="MincryptKnownRootMicrosoftCodeVerificationRoot2006">
+      <CertRoot Type="Wellknown" Value="08" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D077F38AD36C59597E316801963F6BE7D0734DB4A0E4E486CDA2FC" Name="MincryptKnownRootMicrosoftDMDRoot2005">
+      <CertRoot Type="Wellknown" Value="0C" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D0737693BDA279EC080BAE01963F6BE7D0740684942EEA426C1C2E" Name="MincryptKnownRootMicrosoftFlightRoot2014">
+      <CertRoot Type="Wellknown" Value="0E" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D078B4B55AEF8357EC4FB701963F6BE7D075F9A774DC405CFABAD9" Name="MincryptKnownRootMicrosoftTestRoot2010">
+      <CertRoot Type="Wellknown" Value="0A" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D07A03B4874655F792874A01963F6BE7D0762B829C9DC4728B4232" Name="MincryptKnownRootMicrosoftProductRoot1997">
+      <CertRoot Type="Wellknown" Value="04" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D07062AC3C8F179257878301963F6BE7D0797EAFF5CEAD3669B0D1" Name="MincryptKnownRootMicrosoftProductRoot2001">
+      <CertRoot Type="Wellknown" Value="05" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D0770282A6FCC400989FEA01963F6BE7D07C25AA22E907B216D85D" Name="MincryptKnownRootMicrosoftProductRoot2010">
+      <CertRoot Type="Wellknown" Value="06" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D07A5280B1DDE6C933B6D201963F6BE7D077F7A29801D7B8E89D0F" Name="MincryptKnownRootMicrosoftStandardRoot2011">
+      <CertRoot Type="Wellknown" Value="07" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D079E493294563031B9A1501963F6BE7D07289829F7C638D893DAE" Name="MincryptKnownRootMicrosoftCodeVerificationRoot2006">
+      <CertRoot Type="Wellknown" Value="08" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D07867BD7660CF330DBAF401963F6BE7D074FCA21CD08E9740C21C" Name="MincryptKnownRootMicrosoftDMDRoot2005">
+      <CertRoot Type="Wellknown" Value="0C" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D07129AFBA1748614362E601963F6BE7D07AE4A2AAD4FC7F286EEC" Name="MincryptKnownRootMicrosoftFlightRoot2014">
+      <CertRoot Type="Wellknown" Value="0E" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D078B98BA830F77EE75A4401963F6BE7D07D0591AC1A21BA4703F7" Name="MincryptKnownRootMicrosoftTestRoot2010">
+      <CertRoot Type="Wellknown" Value="0A" />
+    </Signer>
+    <Signer ID="ID_SIGNER_A_01963F6BE7D07C72A9D55CD1857AC3C601963F6BE7D0781EA1C5CB62E4592056" Name="Microsoft MarketPlace PCA 2011">
+      <CertRoot Type="TBS" Value="FC9EDE3DCCA09186B2D3BF9B738A2050CB1A554DA2DCADB55F3F72EE17721378" />
+      <CertEKU ID="ID_EKU_E_01963F6BE7D07B32A524EB6B89E784E201963F6BE7D072BA81D735E3FAC16E78" />
+    </Signer>
+  </Signers>
+  <SigningScenarios>
+    <SigningScenario Value="12" ID="ID_SIGNINGSCENARIO_WINDOWS" FriendlyName="User Mode Code Integrity">
+      <ProductSigners>
+        <AllowedSigners>
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D07C55AA3CBCFDC2D5579B01963F6BE7D0720187084DB11013EAE2" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D0757D857F8F39541FCB3601963F6BE7D071EA8027A3CC462A719A" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D07847BD34C2EDBE6034EF01963F6BE7D07F6FA8A7F3C982A29FD6" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D076CD9507A4F0C31738AF01963F6BE7D07EF9872FE3B8B23D9278" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D074BC8EFE54EA0700358201963F6BE7D07BA9ACCD7873F705B5DB" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D07CD0A6A2FA98F65E158F01963F6BE7D07C3983BDC03B54D283AC" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D077F38AD36C59597E316801963F6BE7D0734DB4A0E4E486CDA2FC" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D0737693BDA279EC080BAE01963F6BE7D0740684942EEA426C1C2E" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D078B4B55AEF8357EC4FB701963F6BE7D075F9A774DC405CFABAD9" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D07C72A9D55CD1857AC3C601963F6BE7D0781EA1C5CB62E4592056" />
+        </AllowedSigners>
+      </ProductSigners>
+    </SigningScenario>
+    <SigningScenario Value="131" ID="ID_SIGNINGSCENARIO_DRIVERS_1" FriendlyName="Kernel Mode Code Integrity">
+      <ProductSigners>
+        <AllowedSigners>
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D07A03B4874655F792874A01963F6BE7D0762B829C9DC4728B4232" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D07062AC3C8F179257878301963F6BE7D0797EAFF5CEAD3669B0D1" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D0770282A6FCC400989FEA01963F6BE7D07C25AA22E907B216D85D" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D07A5280B1DDE6C933B6D201963F6BE7D077F7A29801D7B8E89D0F" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D079E493294563031B9A1501963F6BE7D07289829F7C638D893DAE" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D07867BD7660CF330DBAF401963F6BE7D074FCA21CD08E9740C21C" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D07129AFBA1748614362E601963F6BE7D07AE4A2AAD4FC7F286EEC" />
+          <AllowedSigner SignerId="ID_SIGNER_A_01963F6BE7D078B98BA830F77EE75A4401963F6BE7D07D0591AC1A21BA4703F7" />
+        </AllowedSigners>
+      </ProductSigners>
+    </SigningScenario>
+  </SigningScenarios>
+  <UpdatePolicySigners />
+  <CiSigners>
+    <CiSigner SignerId="ID_SIGNER_A_01963F6BE7D07C72A9D55CD1857AC3C601963F6BE7D0781EA1C5CB62E4592056" />
+  </CiSigners>
+  <HvciOptions>2</HvciOptions>
+  <Settings>
+    <Setting Provider="AllHostIds" Key="{0468C085-CA5B-11D0-AF08-00609797F0E0}" ValueName="EnterpriseDefinedClsId">
+      <Value>
+        <Boolean>true</Boolean>
+      </Value>
+    </Setting>
+    <Setting Provider="PolicyInfo" Key="Information" ValueName="Name">
+      <Value>
+        <String>AllowMicrosoftAudit - 04-16-2025</String>
+      </Value>
+    </Setting>
+    <Setting Provider="PolicyInfo" Key="Information" ValueName="Id">
+      <Value>
+        <String>022422</String>
+      </Value>
+    </Setting>
+  </Settings>
+</SiPolicy>

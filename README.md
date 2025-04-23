@@ -219,4 +219,5 @@ A game developer or programmer once told my friend "Stop shoving food in your st
 
 https://github.com/MicrosoftDocs/WDAC-Toolkit
 
-Derieapstic corps. help bills Ip Security dillute and identify streamers. Happy 2025 Easter.
+Deriealistic corps. help bills Ip Security dillute and identify streamers. Happy 2025 Easter.
+

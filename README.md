@@ -227,4 +227,6 @@ HTTPS to ARPA will and is preload.
 
 Organizations dictation:
 entireall.org
-That we no longer research, but have provided too much instead i am willing to act off it as person am the founder of organizatiin meanwhile the further function of it may not or may be registered. ais. the company was never registered for any other purpose nor it was intended and has changed. 
+That we no longer research, but have provided too much instead i am willing to act off it as person am the founder of organizatiin meanwhile the further function of it may not or may be registered. ais. the company was never registered for any other purpose nor it was intended and has changed.
+
+You have been jacked, hiwired, hacked and switched.

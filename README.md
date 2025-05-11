@@ -232,3 +232,4 @@ That we no longer research, but have provided too much instead i am willing to a
 You have been jacked, hiwired, hacked and switched.
 
 Compiler is simply a resolution. Resolution definition in word class.
+Simple case file - library, version.

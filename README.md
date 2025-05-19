@@ -241,3 +241,15 @@ Simple case file - library, version.
  
   Microsoft was attendie firmware thief victom. - zero to hundred distrusted service -- started servicing.
   AI in this thesis is just not for anything good.
+
+
+![Untitled9](https://github.com/user-attachments/assets/b58c6630-bebd-48f7-9d5a-414f8b9f4128)
+![Untitled8](https://github.com/user-attachments/assets/9de1abb8-07bd-4ab7-bc72-569097468c30)
+![Untitled7_](https://github.com/user-attachments/assets/5e94045b-b49a-434b-8a1d-f39274b8308c)
+![Untitled5](https://github.com/user-attachments/assets/d4a1d752-c1b7-41d7-9b29-f02fec9508d6)
+![Untitled4](https://github.com/user-attachments/assets/b33ebd81-898c-4d1e-a9a7-df1d418f5acd)
+![Untitled3](https://github.com/user-attachments/assets/fb8515bd-65b4-4612-833c-6a32f1c821f8)
+![Untitled2](https://github.com/user-attachments/assets/a57c891e-005a-46c6-a176-1e1d3315fc79)
+![Untitled](https://github.com/user-attachments/assets/374c605f-6072-462e-b580-ea457a862582)
+![Untitled10](https://github.com/user-attachments/assets/1bffb104-9952-4db5-80e8-50827fe5c296)
+

@@ -234,3 +234,6 @@ It is all implementation, integration except for mentioned.
 
 Compiler is simply a resolution. Resolution definition in word class.
 Simple case file - library, version.
+
+  Microsoft was attendie firmware thief victom.
+  AI in this thesis is just not for anything g.

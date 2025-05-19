@@ -235,5 +235,7 @@ It is all implementation, integration except for mentioned.
 Compiler is simply a resolution. Resolution definition in word class.
 Simple case file - library, version.
 
+  Common problem is the relic - how often people forget that majority is the problem. Like computer name - if it has services then the open source is overid and if it does not then the open source is used.
+
   Microsoft was attendie firmware thief victom.
-  AI in this thesis is just not for anything g.
+  AI in this thesis is just not for anything good.

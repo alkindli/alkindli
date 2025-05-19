@@ -236,6 +236,7 @@ Compiler is simply a resolution. Resolution definition in word class.
 Simple case file - library, version.
 
   Common problem is the relic - how often people forget that majority is the problem. Like computer name - if it has services then the open source is overid and if it does not then the open source is used.
-
-  Microsoft was attendie firmware thief victom.
+  Domain name services usually find the same way unless its dead and what we know as BEE-BOOP breeds the cow and has no computer-level framework.
+ 
+  Microsoft was attendie firmware thief victom. - zero to hundred distrusted service -- started servicing.
   AI in this thesis is just not for anything good.

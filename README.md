@@ -254,3 +254,5 @@ Simple case file - library, version.
 ![Untitled](https://github.com/user-attachments/assets/374c605f-6072-462e-b580-ea457a862582)
 ![Untitled10](https://github.com/user-attachments/assets/1bffb104-9952-4db5-80e8-50827fe5c296)
 
+
+Murderous value writing, writing a Cbot would be hospitalization for healthy people.

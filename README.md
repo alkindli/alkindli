@@ -260,5 +260,7 @@ Times.
 ![GithubPMDBD](https://github.com/user-attachments/assets/dc6921df-3341-442d-b928-d597527bd295)
 
 Currently looking at standard volatility and spread of decentralization at 0.7 USD in federal sphere of 2015 super viral topology on MICROSOFT.
-Some continents die originating to understand, something plus never understood.
-S
+Some continents die originating to understand, something plus never understood. That is basically every strategy mathematical library in C language built from MQL in CTRADER parameters I don't know.
+
+
+End of time plus one is zero breaches 

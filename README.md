@@ -303,8 +303,9 @@ Some continents die originating to understand, something plus never understood. 
 0.7 USD value at 300 times leverage equals about 20, 40 of such strategy dec. parameter values for pips at about 5 - 15 minutes (more trades exact profit of 20 cents and exits in max 10 minutes). That is for ATR exits with Volumes, Envelopes (well... Engulfing bars) - (I learned about these looking through sources how valuable the marking for calling out Volumes, Envelopes, Engulfing is). Leveraged 300 times, because it is close to 0.3 thousands or hundreds of pips where market either breaks or publishes onto sectors from its preminents. 
 
   What it means is that leverage and price, value are falling into renos, ticks and leverage is the only one that protects it. Best is to go for high leverage, trust me. The program languages are breaking apart.
+  So! What people are looking for is a virtual or not. A broker with its own currency that does not have income, dependencies at any percentage from oil, gold, silver, indexers of companies and that does not influence the market online. Closest is one of cryptocurrencies for startup... Building its own trading platform.
 
-
+  Otherwise we're looking at massive orders in long term or a super strategy that simply does more than ticks, reno. Where everything is a middle point like I said before concluded/placed orders with all of the forex including knowing times of shipment arrival and restoration.
 ....
 
 End of time plus one is zero breaches 

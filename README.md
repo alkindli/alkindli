@@ -299,8 +299,12 @@ Times.
 ![GithubPMDBD](https://github.com/user-attachments/assets/dc6921df-3341-442d-b928-d597527bd295)
 
 Currently looking at standard volatility and spread of decentralization at 0.7 USD in federal sphere of 2015 super viral topology on MICROSOFT.
-Some continents die originating to understand, something plus never understood. That is basically every thoughtful strategy as are from MQL put into as example - C language -- CTRADER. Those "strategy parameters",input/input/input/input calculators do not go well with supporting common CTRADER C# programming language libraries. "I don't know" - Mostly they equal at 100 dec. values for pips, but it is unprecise, because how others deeply manipulate the tick or reno, so the furthest I went was at 300 times leverage at 30 minutes at the 100 dec. values and it equaled exit points by six hours or less max in profit for 20 cents.
-0.7 USD value at 100x leverage equals about 20, 40 of such strategy dec. parameter values for pips at about 5 - 15 minutes. That is for ATR exits with Volumes, Envelopes. Leverage 300 times, because it is close to 0.3 thousands or hundreds of pips where market either breaks or publishes onto sectors from its preminents. What it means is that leverage and price, value are falling into renos, ticks and leverage is the only one that protects it. Best is to go for high leverage, trust me. The program languages are breaking apart.
+Some continents die originating to understand, something plus never understood. That is basically every thoughtful strategy as are from MQL put into as example - C language -- CTRADER. Those "strategy parameters", input/input/input/input calculators (this is where the language goes down). They - do not go well with supporting common CTRADER C# programming language libraries. "I don't know" - Mostly they equal at 100 dec. values for pips, but it is unprecise, because how others deeply manipulate the tick or reno, so the furthest I went was at 300 times leverage at 30 minutes at the 100 dec., values and it equaled exit points by six hours or less max in profit for 20 cents.
+0.7 USD value at 300 times leverage equals about 20, 40 of such strategy dec. parameter values for pips at about 5 - 15 minutes (more trades exact profit of 20 cents and exits in max 10 minutes). That is for ATR exits with Volumes, Envelopes (well... Engulfing bars) - (I learned about these looking through sources how valuable the marking for calling out Volumes, Envelopes, Engulfing is). Leveraged 300 times, because it is close to 0.3 thousands or hundreds of pips where market either breaks or publishes onto sectors from its preminents. 
+
+  What it means is that leverage and price, value are falling into renos, ticks and leverage is the only one that protects it. Best is to go for high leverage, trust me. The program languages are breaking apart.
+
+
 ....
 
 End of time plus one is zero breaches 

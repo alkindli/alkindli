@@ -308,4 +308,6 @@ Some continents die originating to understand, something plus never understood. 
   Otherwise we're looking at massive orders in long term or a super strategy that simply does more than ticks, reno. Where everything is a middle point like I said before concluded/placed orders with all of the forex including knowing times of shipment arrival and restoration.
 ....
 
+  But yeah! Ya all want! to go for a priced leverage that should be 50 times=100, 100 times = 200.
+
 End of time plus one is zero breaches 

@@ -1,6 +1,6 @@
 
 
-    👋 Hi, I’m @Nick B.
+    👋 Hi, I’m @Nick B.  2025 JUne ! Nigger brains, say what!?
 
     👀 I’m interested in ... Style
 

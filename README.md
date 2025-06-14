@@ -10,6 +10,7 @@
 
     📫 How to reach me DAFRAYAL@OUTLOOK.COM / DAFRAYAL.COM //"My |legacy"\ //(My 'legacy)\ It was omnious to iteration to let others speak as vendors or universal, but to listen. Simplicity diminished.. Find people interesting without comparison and.. Life is big misdirection unless made with and of. Harmony.
 rzurkabiggathanbus
+"Oh I'd love to chop down mama's cherry tree"
 
     https://donate.stripe.com/eVa8zme8l96j1ig5kk
 

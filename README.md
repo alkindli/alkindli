@@ -1,6 +1,6 @@
 
 
-    👋 Hi, I’m @Nick B.  2025 JUne ! Nigger brains, say what!? Yes. Black brains! Now they walk with hands in pockets.
+    👋 Hi, I’m @Nick B.  2025 JUne !  Yes. Black brains! Now they walk with hands in pockets.
 
     👀 I’m interested in ... Style
 
@@ -350,3 +350,7 @@ May turn on profile asisstance service if you want to log onto your microsoft us
  So you go online to check whats written here and change group policy user name to your username then you give me a star rating.
 
  Protecting against enterprise/enterprise, this was the enterprise security. 1:29 PM 6/19/2025
+Has no system timer, event precision timer, interrupt controller, Microsoft accessing BIOS, device driver verification
+Disabling them so...
+
+ Hi. wait out, the memory gets flooded all the time. computer memory is impacted by MICROSOFT most of the time, wait it out, but if you have enough Random access memory you can live without BIOS battery of course the ventilation tangling.

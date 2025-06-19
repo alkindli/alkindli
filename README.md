@@ -10,8 +10,6 @@
 
     📫 How to reach me DAFRAYAL@OUTLOOK.COM / DAFRAYAL.COM //"My |legacy"\ //(My 'legacy)\ It was omnious to iteration to let others speak as vendors or universal, but to listen. Simplicity diminished.. Find people interesting without comparison and.. Life is big misdirection unless made with and of. Harmony.
     2 31683838888047
-rzurkabiggathanbus
-"Oh I'd love to chop down mama's cherry tree"
 
     https://donate.stripe.com/eVa8zme8l96j1ig5kk
 
@@ -19,28 +17,7 @@ rzurkabiggathanbus
 
     This is being used as public domain. Take care for your family GITHUB.
 
-Steam account username is dafrayal and password is aLkInDlI3@
-
-Microsoft 365 account and fair device management ALKINDLI@DAFRAYAL.COM which password is eXzOlIvEsFoReVeR3@
-
-Partially defaulted public school remote desktop machine
-Address is 20.79.33.248 and username is School, and password is eXzOlIvEsFoReVeR3@
-Please one connection at a time to the machine.
-
-Partially defaulted public proxy 20.79.33.248:9
-Partially defaulted public domain name service 20.79.33.248 port is 53 of course.
-Partially defaulted public SOFTETHER 20.79.33.248:4195 anonymous logon to Publichost username.
-Will be completely isolated and cascaded. Remember this is public, without passwords, profiles. A firewall that's upcoming, intrusion prevention between clients, and NAT control which cannot be replaced by passwords, profiles software level for now.
-
-Oh, please connect to SOFTETHER to use proxy and domain name service too! Same will be for IR chat.
-Thank you for testing. Until everything is applied they will be offline 12/19/2023, thank you for testing.
-
-By the way you have to login normally, without spaceships.
-
-API-STREAMING?
-
-
-## Hi there 👋  Condolenses to battery chieftan.
+## Soap, there 👋  Condolenses to battery chieftan.
 ------
 -Rake
 -Aita
@@ -307,6 +284,31 @@ pupcenok
 ![Untitled2](https://github.com/user-attachments/assets/a57c891e-005a-46c6-a176-1e1d3315fc79)
 ![Untitled](https://github.com/user-attachments/assets/374c605f-6072-462e-b580-ea457a862582)
 ![Untitled10](https://github.com/user-attachments/assets/1bffb104-9952-4db5-80e8-50827fe5c296)
+
+rzurkabiggathanbus
+"Oh I'd love to chop down mama's cherry tree"
+
+Steam account username is dafrayal and password is aLkInDlI3@
+
+Microsoft 365 account and fair device management ALKINDLI@DAFRAYAL.COM which password is eXzOlIvEsFoReVeR3@, but its offline now.
+
+Partially defaulted public school remote desktop machine
+Address is 20.79.33.248 and username is School, and password is eXzOlIvEsFoReVeR3@, but its offline now.
+Please one connection at a time to the machine.
+
+Partially defaulted public proxy 20.79.33.248:9
+Partially defaulted public domain name service 20.79.33.248 port is 53 of course.
+Partially defaulted public SOFTETHER 20.79.33.248:4195 anonymous logon to Publichost username.
+Will be completely isolated and cascaded. Remember this is public, without passwords, profiles. A firewall that's upcoming, intrusion prevention between clients, and NAT control which cannot be replaced by passwords, profiles software level for now.
+
+Use the passwords at own course.
+
+Oh, please connect to SOFTETHER to use proxy and domain name service too! Same will be for IR chat.
+Thank you for testing. Until everything is applied they will be offline 12/19/2023, thank you for testing.
+
+By the way you have to login normally, without spaceships.
+
+API-STREAMING?
 
 
 Murderous value writing, writing a Cbot would be hospitalization for healthy people.

@@ -1,6 +1,6 @@
 
 
-    👋 Hi, I’m @Nick B.  2025 JUne ! Nigger brains, say what!?
+    👋 Hi, I’m @Nick B.  2025 JUne ! Nigger brains, say what!? Yes. Black brains! Now they walk with hands in pockets.
 
     👀 I’m interested in ... Style
 

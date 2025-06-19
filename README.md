@@ -345,5 +345,6 @@ The steam gaming plur widely abuses LSM, SAMSS.
 
 May turn on profile asisstance service if you want to log onto your microsoft user account online the operating system.
 
+ So you go online to check whats written here and change group policy user name to your username then you give me a star rating.
 
  Protecting against enterprise/enterprise, this was the enterprise security. 1:29 PM 6/19/2025

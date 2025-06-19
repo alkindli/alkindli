@@ -8,7 +8,7 @@
 
     💞️ I’m looking to collaborate on ... MICROSOFT TEAMS
 
-    📫 How to reach me DAFRAYAL@OUTLOOK.COM / DAFRAYAL.COM //"My |legacy"\ //(My 'legacy)\ It was omnious to iteration to let others speak as vendors or universal, but to listen. Simplicity diminished.. Find people interesting without comparison and.. Life is big misdirection unless made with and of. Harmony.
+    📫 How to reach me - on some built web platforms like comment here etc.. / DAFRAYAL.COM //"My |legacy"\ //(My 'legacy)\ It was omnious to iteration to let others speak as vendors or universal, but to listen. Simplicity diminished.. Find people interesting without comparison and.. Life is big misdirection unless made with and of. Harmony.
     2 31683838888047
 
     https://donate.stripe.com/eVa8zme8l96j1ig5kk

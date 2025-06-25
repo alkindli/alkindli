@@ -4,7 +4,7 @@
 
     👀 I’m interested in ... Style
 
-    🌱 I’m currently learning ... Data centers
+    🌱 I’m currently learning ... Data centers/Rip mic. Is.
 
     💞️ I’m looking to collaborate on ... MICROSOFT TEAMS
 

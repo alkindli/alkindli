@@ -354,3 +354,6 @@ Has no system timer, event precision timer, interrupt controller, Microsoft acce
 Disabling them so...
 
  Hi. wait out, the memory gets flooded all the time. computer memory is impacted by MICROSOFT most of the time, wait it out, but if you have enough Random access memory you can live without BIOS battery of course the ventilation tangling.
+
+
+System executables like svchost.exe, dwm.exe run on everyone read and execute until defender will start its registration execution code.

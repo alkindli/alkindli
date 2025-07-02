@@ -357,6 +357,6 @@ Disabling them so...
 
 
 System executables like svchost.exe, dwm.exe run on everyone read and execute until defender will start its registration execution code - the only thing that bypasses you.
-NET frameworks and all C coded programming languages are made to correspond with drivers to magnets. That is why other one was named Swift. Especially display and dwm.exe
+NET frameworks and all C coded programming languages are made to correspond with drivers to magnets. That is why other one was named Swift. Especially display and dwm.exe. Once you do that, you will see him bouncing on and off RPC.
 
 I like jigsaw person and persons.

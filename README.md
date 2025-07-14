@@ -364,8 +364,12 @@ I like jigsaw person and persons.
 
 
 Policy has update 7/12/2525
-  No connection to microsoft what it calls enterprise firewall. Use VPN for protocol requests, whatever they are. I just know it disables HTTP/HTTPS requests. Cloud Identity, that I entered empty data just to turn enterprise firewall block where a private connection is required to microsoft. You cannot add microsoft accounts, roaming/temporary/third party profiles/data, telemetry disabled, some more security added.
+  No connection to microsoft what it calls enterprise firewall. Use VPN for protocol requests, whatever they are. I just know it disables HTTP/HTTPS requests. Cloud Identity, that I entered empty data just to turn enterprise firewall block where a two way/remote "private/same setup/different place computers/with you as owner" connection is required to microsoft, but I think the firewall blocks it anyhow/since you make own services/all say "same binary" or it does not and "detects" your encrypted data. Check yourself or turn it off, because if it works on VPN you do not use your firewall over ISP and you still use the protocols for encrypted connection. Using different storage/backup approaches, types - it's like a game terminal if you constantly encrypt data, but MICROSOFT WINDOWS IP security is good if you do not use IKE exchange, peering, netBIOS/SMB, MAC cloning, Symmetrics, NAT opening. As you can see it all becomes a simpler game - SMB/NetBIOS.
+  You cannot add microsoft accounts, roaming/temporary/third party profiles/data, telemetry disabled, etc... some more security added.
 
-  Hopefully no policies trigger empty data, because for example my laptop makes microsoft request something onomiously when display turns off when its closed over touchpad magnet. It just may be ntoskrnl.exe or connection to RPC mapping to have no NT4 as a client that people have outdated.
+  No policies should trigger empty data - trippy, because for example "a laptop makes microsoft request onomiously/bugs/errors/no events when display turns off when its closed over touchpad magnet - this can happen if you are mitigating system compiled encrypted binaries like "services.exe executable"", because you are denying the purpose of a driver I believe. Propoganda as CNN and almost like TCL scripting is inside COMODO, so do not use COMODO, but their certification and other software is good except the exaggurated one "Internet Security" or "ITARIAN", "DOME" - DOME used to be just a DNS provider worker, searcher.
+   
+   RPC mapping to have no NT4 as a client that people have outdated.
 
   Remember for signing and encrypting NTLM and certificate data/HTTP you are the server always. DLL - ODBC - CAB - BIN - RAW
+  Just mentioning couple of things for the time to export.

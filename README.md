@@ -368,4 +368,4 @@ Policy has update 7/12/2525
 
   Hopefully no policies trigger empty data, because for example my laptop makes microsoft request something onomiously when display turns off when its closed over touchpad magnet. It just may be ntoskrnl.exe or connection to RPC mapping to have no NT4 as a client that people have outdated.
 
-  Remember for signing and encrypting NTLM and certificate data/HTTP you are the server always. DLL - ODBC - BIN - RAW
+  Remember for signing and encrypting NTLM and certificate data/HTTP you are the server always. DLL - ODBC - CAB - BIN - RAW

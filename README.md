@@ -360,3 +360,12 @@ System executables like svchost.exe, dwm.exe run on everyone read and execute un
 NET frameworks and all C coded programming languages are made to correspond with drivers to magnets. That is why other one was named Swift. Especially display and dwm.exe. Once you do that, you will see him bouncing on and off RPC. Is why Linux warns about writing at computer aside that. Add a PH indefinite central to RPC and you good to go.
 
 I like jigsaw person and persons.
+
+
+
+Policy has update 7/12/2525
+  No connection to microsoft what it calls enterprise firewall. Use VPN for protocol requests, whatever they are. I just know it disables HTTP/HTTPS requests. Cloud Identity, that I entered empty data just to turn enterprise firewall block where a private connection is required to microsoft. You cannot add microsoft accounts, roaming/temporary/third party profiles/data, telemetry disabled, some more security added.
+
+  Hopefully no policies trigger empty data, because for example my laptop makes microsoft request something onomiously when display turns off when its closed over touchpad magnet. It just may be ntoskrnl.exe or connection to RPC mapping to have no NT4 as a client that people have outdated.
+
+  Remember for signing and encrypting NTLM and certificate data/HTTP you are the server always.

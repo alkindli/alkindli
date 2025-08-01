@@ -381,4 +381,4 @@ TPM identifies your computer although.. as a "planetary"
 Here's a guy that posts all visible computers anyway
 https://github.com/TheSpeedX/PROXY-List 2009
 
-You got your certificates good when your mouse is clear from secure channel or no channels at all, but still have no RPC impacts you can prohibit the users network connection capabilities in group policy. Disabling rapid rotating DHCP client server windows service while using third party tools instead. Or let it through and find the key decimals that always change for it in the registry editor to block so it don't come around again.
+You got your certificates good when your mouse is clear from secure channel or no channels at all, but still have no RPC impacts you can prohibit the users network connection capabilities in group policy. Disabling rapid rotating DHCP client server windows service while using third party tools instead. Or let it through and find the key decimals that always change for it in the registry editor to block so it don't come around again. ""No worry, no threat..""

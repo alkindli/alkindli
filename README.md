@@ -385,10 +385,12 @@ You got your certificates good when your mouse is clear from secure channel or n
 
 
 Lowest end system certificates will stop the microsoft store connection, because of DigiCerts certificates and UITrust user certificates not being trusted. Check if your user has exactly the same certification as system.
-Medium High end group policy (5) is what it is with unfinished internet explorer settings. The computer name has to be specified couple of places and your username has to be specified couple of places.
+Medium High end group policy (5) is what it is with unfinished internet explorer settings. The computer name has to be specified couple of places and your username has to be specified couple of places. Some disallowed windows executables by user got removed and some mitigation options.
 Highest end firewall is what it is.
 Process lasso is missing immersive control panel and windows security folders for allowed processes, they are not (.exe), probably (.appx)
 The user profile must be part of authenticated users, SYSTEM, service asserted identity, authentication authority asserted identity, INTERACTIVE, ALL APPLICATION PACKAGES. You figure this one out. Happens same in registry which is all System Managed Accounts Group and executables of Windows are Service asserted identities.
 Anonymous must be allowed in security settings for named pipes, shares and SAM and specify a folder inside your users directory.
 This is great passthrough.
 You as a server should not receive data anyway.
+
+Dining say (r) done h-?

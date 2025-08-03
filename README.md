@@ -382,3 +382,5 @@ This is great passthrough.
 You as a server should not receive data anyway.
 
 Dining say (r) done h-?
+
+Satisfactory fragmentation at Microsoft Windows 7 where you had click-ads, clickable links for payment. All the -prizes they go through tunnels on their channel where most of software compresses the channel, but with certification you don't know what is going to propogate to your computer, so best to remove their extended validation and OCSP, and use them outsite of Trusted-Root registry directory and keep them in Third-Party registry directory

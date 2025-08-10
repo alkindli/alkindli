@@ -381,6 +381,8 @@ Anonymous must be allowed in security settings for named pipes, shares and SAM a
 This is great passthrough.
 You as a server should not receive data anyway.
 
+And/so you are/i were nowhere near trusting trustedinstaller, because it is for upgrading through APPX channel way before windows 8, so about the windows 7, ugh. As for Windows main drive folder Windows.
+
 Dining say (r) done h-?
 
 Satisfactory fragmentation at Microsoft Windows 7 where you had click-ads, clickable links for payment. All the -prizes they go through tunnels on their channel where most of software compresses the channel, but with certification you don't know what is going to propogate to your computer, so best to remove their extended validation and OCSP, and use them outsite of Trusted-Root registry directory and keep them in Third-Party registry directory. Secure email for processor versions like SkyLake, etc... Have to time stamp always such certificates and always authenticate server/meaning connection to you - which wont happen.

@@ -381,7 +381,7 @@ Anonymous must be allowed in security settings for named pipes, shares and SAM a
 This is great passthrough.
 You as a server should not receive data anyway.
 
-And/so you are/i were nowhere near trusting trustedinstaller, because it is for upgrading through APPX channel way before windows 8, so about the windows 7, ugh. As for Windows main drive folder Windows.
+And/so you are/i were nowhere near trusting trustedinstaller, because it is for upgrading through APPX channel way before windows 8, so about the windows 7, ugh. As for Windows main drive folder Windows. Using it as read/only on the program files whole directories [don't touch RESTRICTED APP PACKAGES permission you'd have to copy it over from separate winpe boot drive with all the files to the directory to give that as far as i been handling it] and read/only trustedinstaller programdata main folder. Not executing any networking service,  perhaps sides Remote procedure call, be careful.
 
 Dining say (r) done h-?
 
@@ -396,4 +396,7 @@ Comment - yes you can change quota ownership through filesystem permissions befo
 So yeah that's the enterprise and if you look deeper in CSIDS/Class ID, Permission IDS. -/minus ~28 characters. Which is not a match to unicode or most of decimal like world wide web is interpreted with microsoft so it is not 256 bit/256 GB/etc...
   It is like RAID disk and older, guess. Vomits...
 
-  Your connection may be slow, so created a GP6 of the medium-high. QUIC is the fastest protocol, care to join it to netBT etc... Uses gates or tunnel or virtual network all that will slow down or show up to BT/BIOS anyway.
+  Your connection may be slow, so created a GP6 of the medium-high. QUIC is the fastest protocol, care to join it to netBT etc... Uses gates or tunnel or virtual network all that will slow down or show up to BT/BIOS anyway so to speak HTTPS over HTTPS over HTTPS over HTTPS... is HTTP anyway, so is Web 1.0 a Tor node, Web 3.0 does not mean www3, because microsoft over-implemented and other companies with XML, JS, etc... API is worst/signals server software like if you see a video that can also be a software on someone's server.
+Where loopback in decimals of 6-8-12bit begin with not to mention microsoft mentioned it as pseudo for best case scenario in metric.  Bits it has are not comparable. [Mentioning bits - people work counts on it, your clock counts on it -- it is your display, but then you have the battery] where again we count back from bits to decimals as interpretation to watts, so no Hard Drive is not measured in bits, but whatever now. Whole system on network calls kernel all the time, well that is your loopback, putting some trash aside and besides user preferences.
+
+  

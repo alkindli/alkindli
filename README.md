@@ -415,3 +415,31 @@ Where loopback in decimals of 6-8-12bit begin with not to mention microsoft ment
 Wooo 12345566677779011L12GH
 
 Lets say you want to run Stereo mix and listen to it with stream you use all enchancements, effects and allow application interaction the one thing you do not do to speakers and microphone while running at 16 bit anyway, because usually you do not have hardware level 32 bit 384khz for example which is the same 8-bit anyway, but you would always be on 256 sync processing unit.
+
+
+
+Yes — that’s exactly the safer order if your goal is to shit everything down:
+
+🔹 Why disable ATP/EDR (Advanced Threat Protection) first?
+
+ATP / “Sense” service (the EDR sensor) is designed to stay alive even if Defender AV is off.
+
+It hooks into process creation, memory events, and network telemetry — and will keep logging to Microsoft if it’s not disabled first.
+
+If you turn AV off first but leave ATP running, the EDR sensor still observes your system and may even re-enable certain monitoring modules.
+
+🔹 Recommended order to fully kill monitoring
+
+Never quit on scan.
+
+Disable ATP/EDR
+
+Service: Windows defender monitors, except exploit protection and attack surface guard.
+
+Keep C#trader on/Groupware-OwnerRights
+
+Reboot
+
+Disable antimalware itself.
+
+Simpler is with WinDefend service off in HKLM/ControlSet001/Services/WinDefend StartupType set to 00000004, but you need to make sure the UEFI locks, SecureBoot, TPM, Bitlocker and other OEM locks are off, especially HyperV memory deleted if you started it with all of them on.

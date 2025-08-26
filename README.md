@@ -443,3 +443,8 @@ Reboot
 Disable antimalware itself.
 
 Simpler is with WinDefend service off in HKLM/ControlSet001/Services/WinDefend StartupType set to 00000004, but you need to make sure the UEFI locks, SecureBoot, TPM, Bitlocker and other OEM locks are off, especially HyperV memory deleted if you started it with all of them on.
+
+<img width="2547" height="1412" alt="BeterChoiceButMitigateIt" src="https://github.com/user-attachments/assets/45c7d9c2-2562-4b00-933a-b788f5d747cc" />
+
+
+

@@ -414,4 +414,4 @@ Where loopback in decimals of 6-8-12bit begin with not to mention microsoft ment
 
 Wooo 12345566677779011L12GH
 
-Lets say you want to run Stereo mix and listen to it with stream you use all enchancements, effects and allow application interaction the one thing you do not do to speakers and microphone while running at 16 bit, because usually you do not have hardware level 32 bit 384khz for example.
+Lets say you want to run Stereo mix and listen to it with stream you use all enchancements, effects and allow application interaction the one thing you do not do to speakers and microphone while running at 16 bit anyway, because usually you do not have hardware level 32 bit 384khz for example which is the same 8-bit anyway.

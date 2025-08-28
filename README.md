@@ -442,8 +442,7 @@ Reboot
 
 Disable antimalware itself.
 
-Simpler is with WinDefend service off in HKLM/ControlSet001/Services/WinDefend StartupType set to 00000004, but you need to make sure the UEFI locks, SecureBoot, TPM, Bitlocker and other OEM locks are off, especially HyperV memory deleted if you started it with all of them on.
-
+Simpler is with WinDefend service off in HKLM/ControlSet001/Services/WinDefend StartupType set to 00000004, but you need to make sure the UEFI locks, SecureBoot, TPM, Bitlocker and other OEM locks are off, especially HyperV memory deleted if you started it with all of them on, but it is a system tailored service, so that would be last option which may fail exploit, surface attack if MDM malfunctions with EDR/ATP if not already set or timer aside hiding new protocol onto disaster or table since they are tied, WWW does nothing that what certificates are for to crack it from the server to client. Turns it off it does not use processor at all.
 <img width="2547" height="1412" alt="BeterChoiceButMitigateIt" src="https://github.com/user-attachments/assets/45c7d9c2-2562-4b00-933a-b788f5d747cc" />
 
 

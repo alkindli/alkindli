@@ -478,3 +478,4 @@ but once you establish sessions with "fellon"/well anything that used to go by s
 So it is a all software on one in my cases mostly. can i have it? ill take that. but microsoft activity and ship stays same
 
 Angles most people will go for backwards etc 6 to 8 bit re-developing over developing likes of it -- honest feels modest, modest feels honest.. not sure, enjoy...
+may want a prompt in microsoft itself of its own domain and websites where those bits are in the extension or code

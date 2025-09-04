@@ -473,5 +473,6 @@ A big like beg of paralysis. S.
 
 
 Anyway in this case most of common cross-software either it is operating system does not send in data you want to throttle your network and not use kernel processing at all, thank yall. Certificates can increase speed so can applocker, but thats all,
-but once you establish sessions with "fellon"/well anything that used to go by state rule and no more don't think theres an open source chance. 2010 boys.
+but once you establish sessions with "fellon"/well anything that used to go by state rule and no more don't think theres an open source chance. 2010 boys. Profile being stated, not roaming, computer name being stated or private linked and moving third party software out of program files into custom permission folder even microsoft partneshipped ones.
 1. princpal rule fell. reading nearly english.
+So it is a all software on one in my cases mostly. can i have it? ill take that.

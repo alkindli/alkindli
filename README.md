@@ -1,4 +1,4 @@
-
+"These are the safest years... You've seen market reset? yebut, best chance is never re-downloading operating system since location services"
 
     👋 Hi, I’m @Nick B.  2025 JUne !  Yes. Black brains! Now they walk with hands in pockets.
 

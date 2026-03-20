@@ -21,7 +21,7 @@ Note:
     
 
 
-    Note: Best way to identify Cyber crime? Not have your consumable, memmorial devices overheat and have the speeds tops if your camera broke cause of that "CccC-L-+AD" reason then you have always time to check if it still works even if it looks cracked." 
+    Note: Best way to identify Cyber crime? Not have your consumable, memmorial devices overheat and have the speeds tops if your camera broke cause of that "OOCccCOOHO+L-+AD" reason then you have always time to check if it still works even if it looks cracked." 
 ## Soap, there 👋  Condolenses to battery chieftan.
 ------
 -Rake

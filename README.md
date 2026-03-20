@@ -18,7 +18,10 @@ Note:
     https://www.ebay.com/itm/125924116164
 
     This is being used as public domain. Take care for your family GITHUB.
+    
 
+
+    Note: Best way to identify Cyber crime? Not have your consumable, memmorial devices overheat and have the speeds tops if your camera broke cause of that "CccC-L-+AD" reason then you have always time to check if it still works even if it looks cracked." 
 ## Soap, there 👋  Condolenses to battery chieftan.
 ------
 -Rake

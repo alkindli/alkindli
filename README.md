@@ -6,6 +6,8 @@ Note:
 
      Note: 2018/2018, 2018 Cryptocurrency derived from super financial intelligence in its own values of exchanges without amused devices of late person as product. With or without that maybe in medical term mining is a Distributed Denial of Service attack through a pump doing nothing, but bringing profit to you.
 
+     Note: About TPM. It is a human, a derivate and a hidden enter and present extensively for the designs of all firmware consumer computers and of course a preacher.
+
     👋 Hi, I’m @Nick B.  2025 JUne !  Yes. Black brains! Now they walk with hands in pockets.
 
     👀 I’m interested in ... Style

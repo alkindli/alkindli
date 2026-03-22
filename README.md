@@ -48,7 +48,9 @@ Note:
 Publishing bait news on cir. clamp cigarette production muc.
 Here's the gravity.
 
-   Yet the Artificial did not build itself it is made for.
+   Yet the Artificial did not build itself it is made for. Communication and privatization. Most often fluidly nowaday Artificial backend requesters get the same response.
+   https://en.wikipedia.org/wiki/History_of_artificial_intelligence
+   
 
 dow jone:
 

@@ -1,6 +1,6 @@
 https://en.wikipedia.org/wiki/Country_code_top-level_domain
 
-United Kingdom.
+United Kingdom. Voice like leak so HID/0004 and usage of the what we see like being at enterprise for it.
 
 "These are the safest years... You've seen market reset? yebut, best chance is never re-downloading operating system since location services"
 Note: 

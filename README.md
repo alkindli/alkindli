@@ -3,7 +3,7 @@ B-project NASA
 https://en.wikipedia.org/wiki/Country_code_top-level_domain 
 So the SSSH can be accepted drop for accept, forward, forward, forward. Asks the "Toy story" - trash, trash, trash.
 
-  
+  Certificates are full of this data below:
   Note: If you hold a finger on TPM and the touchpad sensor plate you will get an effect on windows at the resolution or edges.
   
   What you see on wikipedia is high data if its virtually digital, but beneath it all -

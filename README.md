@@ -549,3 +549,5 @@ So it is a all software on one in my cases mostly. can i have it? ill take that.
 
 Angles most people will go for backwards etc 6 to 8 bit re-developing over developing likes of it -- honest feels modest, modest feels honest.. not sure, enjoy...
 may want a prompt in microsoft itself of its own domain and websites where those bits are in the extension or code
+
+T  hanks to real b i tch banking and the dirty cannal cop

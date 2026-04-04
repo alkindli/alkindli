@@ -8,7 +8,7 @@ Most of visual defects came from user versatile client like programmer formats e
 
     The writer sometime must have had large investment in type of currency wether from gambling or sports betting. 
     Can you trust one asset more than the other at tick (click) ratio, rate and get more?
-    Other part is exchanging for having more numbers than it represents vice versa exchange. Than waved or "knowing someone".
+    Other part is exchanging for having more numbers than its exchanged for having a vice versa exchange against value in other words exchanging for smaller representation/populus value, but for more numbers on the currency. Than waved or "knowing someone".
 
 Certificates are full of this tab data below: https://scienceinsights.org/what-preservatives-are-banned-in-europe-but-not-the-u-s/
   Note: If you hold a finger on TPM and the touchpad sensor plate you will get an effect on windows at the resolution or edges. To get date on things open close rapidly:

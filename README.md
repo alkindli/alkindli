@@ -13,3 +13,5 @@ There is the daemon, used to call it open source frameworks, its function first 
 Most are refurbished, so it is the code on phone not the phone. Android, google breaks. Google breaks android, this is why it lags. If there is a third one. Android and google are one.
 
 Index for the tab row.
+
+The end on cipher. "The backend made cryptocurrency, made itself a hacker, this writer standardized in state the cryptocurrency value" - He wrote off eminem to linkin park, but that was not it.

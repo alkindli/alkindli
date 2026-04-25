@@ -9,3 +9,5 @@ There is application to backup all android applications including system's.
 If you can find it.
 Others will go online and take your data with it.
 Analytics and certificates.
+There is the daemon, used to call it open source frameworks, its function first like kubernetes. Basically the "zombie bot-ware".
+Most are refurbished, so it is the code on phone not the phone. Android, google breaks. Google breaks android, this is why it lags. If there is a third one. Android and google are one.

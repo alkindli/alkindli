@@ -14,4 +14,4 @@ Most are refurbished, so it is the code on phone not the phone. Android, google 
 
 Index for the tab row.
 
-The end on cipher. "The backend made cryptocurrency, made itself a hacker, this writer standardized in state the cryptocurrency value" - He wrote off eminem to linkin park, but that was not it. Starting with a dedicated server in result...
+The end on cipher. "The backend made cryptocurrency, made itself a hacker, this writer standardized in state the cryptocurrency value" - He wrote off eminem to linkin park, but that was not it. Starting with a dedicated server in result... Microsoft republished after.

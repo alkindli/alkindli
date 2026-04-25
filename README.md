@@ -3,8 +3,9 @@ Originally had cannibalistic entries like mouse with camera, camera with keyboar
 Was definitely like describing a synthesis globally and a man like JFK or similar.
 
 "Not to confuse what they say about how developers use software"
-Any cloud backup on android, play store or pick to backup Applications all at once only.
-There is application to backup all android applications including system.
+Any cloud backup on android, play store or.
+Pick to backup Applications not clone the phone.
+There is application to backup all android applications including system's.
 If you can find it.
 Others will go online and take your data with it.
 Analytics and certificates.

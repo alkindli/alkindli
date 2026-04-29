@@ -29,4 +29,4 @@ Negative.
 The way it gave the look for laptop mostly and the cuts by Intel basically..
 
 
-  Understood that the theft is out-built and built into command shells, wether you punch the laptop or move, roam location. Whatever the shell or operating system, some places have breach on the ind. system itself. A lot of a.... Manual signals move about it and to it. The leaking code is the winner that is Microsoft Windows? who did that. Whatever there hardware no one was playing cocaine it will take magnetic precedence by few coders.
+  Understood that the theft is out-built and built into command shells, wether you punch the laptop or move, roam location. Whatever the shell or operating system, some places have breach on the ind. system itself. A lot of a.... Manual signals move about it and to it. The leaking code is the winner that is Microsoft Windows? who did that. Whatever there hardware no one was playing cocaine it will take magnetic precedence by few coders and we do not knew why that is.

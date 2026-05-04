@@ -101,4 +101,4 @@ If its two for two, everything issues link well at least firmware/internet thats
 
    3. Can those make a doorhit: 2. Why did Marley play "Fuckadalden":
 
-   Is "Fuckadalden" really a not running Intel service:
+   Is "Fuckadalden" and is seen really a not running Intel service:

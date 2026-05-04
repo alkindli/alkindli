@@ -99,6 +99,4 @@ If its two for two, everything issues link well at least firmware/internet thats
 
    When both serve one another was "slut hub clap":
 
-   3. Can those make a doorhit:
-
-   2. Why did Marley play "Fuckadalden":
+   3. Can those make a doorhit: 2. Why did Marley play "Fuckadalden":

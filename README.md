@@ -89,3 +89,8 @@ If its two for two, everything issues link well at least firmware/internet thats
 
 
    Who joins the 1. how you use the tool and killer:
+
+
+   Can it be register or Timberlake:
+
+   Finally what is perception service:

@@ -64,3 +64,4 @@ If its two for two, everything issues link well at least firmware/internet thats
 
 
    So on the "JFK". - The speed on computer is increased by six parts in this operating system. Name them here:
+   Its already modified for it, but times that its programming.

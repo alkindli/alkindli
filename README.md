@@ -1,7 +1,7 @@
 During deletion of the progress am at the gran grannies place, reads...
 Somehow. Whole and so.
 
-So basically you are inhabited by a twitter.com and post-writer, yet none of it is.
+So basically you are inhabited by a twitter.com and post-writer, yet none of it is, but artificially is product of continent governmentally.
 
    Decentralizes as.
 

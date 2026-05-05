@@ -99,9 +99,9 @@ If its two for two, everything issues link well at least firmware/internet thats
 
    When both serve one another was "slut hub clap":
 
-   3. Can those make a doorhit: 2. Why did Marley play "Fuckadalden":
+   3. Can those make a doorhit: 2. Why did Marley play "You no hear him you good, dandelion":
 
-   Is "Fuckadalden" and is seen really a not running Intel service:
+   Is "Uno hear him you good, dandelion" and is seen really a not running Intel service:
 
    Are described as network service or networking of which services:
   1. is it ipxlatcfgx?

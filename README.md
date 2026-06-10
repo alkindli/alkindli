@@ -2,8 +2,8 @@ tp3ei5.mwd of which fingers are these? Touchpad can discharge your laptop quickl
 So you do not know which explorer or tab will open or close...
 Depends on three types network controller / wether it is high assurance, extended validator, terminal permissions insistive user "compromise", and the profiling that connects them all.
 The IKE, KDC cryptography had moved to third party certificate over the computers memory, wether you playing flash player game, Directx game, java game... 
-Ever since the year date changed from 95/95 about these Windows XP/95 have had the same and date the microsoft windows certification authority at the network level IKE, KDC has been spammed and compromised.
-We "Entire all nodibinājums", believe it had been introduced Netherlands and Turkey so they had terminal spam/rapid/immense/over-rated data traverse and travel over the centuries over one coders - 'Bill Gates' "Network controllers" for user security over the methods to connect. A view of a picture or _ 'also includes America'.
+Ever since the year date changed from 95/95 about these Windows XP/95 have had the same and date the "microsoft windows certification authority" at the network level "IKE, KDC" has been spammed and compromised.
+We "Entire all nodibinājums", believe it had been introduced Netherlands and Turkey so they had terminal spam/rapid/immense/over-rated data traverse and travel over the centuries over one coders - 'Bill Gates' "Network controllers" for user security over the methods to connect. Less of a exchange "DWM.exe". A view of a picture or _ 'also includes America'.
 "Bet is just a planet near. Give up...". -- One can be many.
 I write dialectically, because. Worst part to contribute...
 Everything is just metal if you can pin-point that, it must be a narcosis-militant. Also we believe that the American federal space-network or ship without analogue controller existed way before these incidents.

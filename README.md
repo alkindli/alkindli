@@ -12,6 +12,8 @@ Everything is just metal if you can pin-point that, it must be a narcosis-milita
 
   - Personally of religious part it can compromise the basics as trader, did not have many fathers. Completely something composite. Were meant for and wist the industry it is, the basic part was traded. Trader wakes up, sees all the industry. Mix-relations, mix-culture personalities of type of a controller/civilization never a ethnic/kind, but considerates race continuously and private introductions too must ave introduced destruction at larger scales, if it is 50/50 or less or more. Wether a cuss, a swear... All those things are specified at scaler only separate from compisite of choice way after the origin. Most for nothing, but a disappointer or mis-appropriator. Concluding me for dislexit malfunction of access and post.
 
+  - Diligently if a private is a posture, a post-modernal, a tresspassing goes to como' for smell.
+
   Done bunch of verifications starting off with paralysis, going to mimic and eventually over a language, a sign language, but seems that the cryptography and inventor of confidential papers, documents have the open doors to the profiling list, examination and exhibitions yet in mix-up doing it conviently and considerably, constantly without any interior of past or dependency to stand on.
    - A frequency is conducted and applied as a fun.
 

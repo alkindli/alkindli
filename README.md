@@ -1,6 +1,6 @@
 tp3ei5.mwd of which fingers are these? Touchpad can discharge your laptop quickly, "open sleep". Does not matter what system it is on.
 So you do not know which explorer or tab will open or close...
-Depends on three types network controller / wether it is high assurance, extended validator.
+Depends on three types network controller / wether it is high assurance, extended validator, terminal permissions insistive user "compromise", and the profiling that connects them all.
 The IKE, KDC cryptography had moved to third party certificate over the computers memory, wether you playing flash player game, Directx game, java game... 
 Ever since the year date changed from 95/95 about these Windows XP/95 have had the same and date the microsoft windows certification authority at the network level IKE, KDC has been spammed and compromised.
 We "Entire all nodibinājums", believe it had been introduced Netherlands and Turkey so they had terminal spam/rapid/immense/over-rated data traverse and travel over the centuries over one coders - 'Bill Gates' "Network controllers" for user security over the methods to connect. A view of a picture or _ 'also includes America'.

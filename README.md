@@ -8,6 +8,9 @@ We "Entire all nodibinājums", believe it had been introduced Netherlands and Tu
 I write dialectically, because. Worst part to contribute...
 Everything is just metal if you can pin-point that, it must be a narcosis-militant. Also we believe that the American federal space-network or ship without analogue controller existed way before these incidents.
 
+Certificates increase the size to the input controls to hardware
+Where you have many android installations wether Nokia, Sony, Siemens, Ericsson, Packard. Makes you think and notice it is just a code fault.
+
    Nevertheless more about the type versioning, compiling, building the code for artificial intelligence the "Microsoft Windows" took part in developing the science behind versioning, compiling, building almost every aspect including the "data science" part of the artificial intelligence. Especially the perceptional part.
 
   - Personally of religious part it can compromise the basics as trader, did not have many fathers. Completely something composite. Were meant for and wist the industry it is, the basic part was traded. Trader wakes up, sees all the industry. Mix-relations, mix-culture personalities of type of a controller/civilization never a ethnic/kind, but considerates race continuously and private introductions too must ave introduced destruction at larger scales, if it is 50/50 or less or more. Wether a cuss, a swear... All those things are specified at scaler only separate from compisite of choice way after the origin. Most for nothing, but a disappointer or mis-appropriator. Concluding me for dislexit malfunction of access and post.
@@ -15,7 +18,7 @@ Everything is just metal if you can pin-point that, it must be a narcosis-milita
   - Diligently if a private is a posture, a post-modernal, a tresspassing goes to como' for smell.
 
   Done bunch of verifications starting off with paralysis, going to mimic and eventually over a language, a sign language, but seems that the cryptography and inventor wether inflitrated or mis-ladded, behaved of confidential papers, documents have the open doors to the profiling list, examination and exhibitions yet in mix-up doing it conviently and considerably, constantly without any interior of past or dependency to stand on. So over anything eternally, a corpse is a corpse it gains no profit from the organization.
-   - A frequency is conducted and applied as a fun. Or a inflicted family, yet some only/in past.
+   - A frequency is conducted and applied as a fun. Or a inflicted family, yet some only/in past. Completely nowhere to store it at or by computer.
 
   
 

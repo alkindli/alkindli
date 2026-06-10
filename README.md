@@ -14,7 +14,7 @@ Everything is just metal if you can pin-point that, it must be a narcosis-milita
 
   - Diligently if a private is a posture, a post-modernal, a tresspassing goes to como' for smell.
 
-  Done bunch of verifications starting off with paralysis, going to mimic and eventually over a language, a sign language, but seems that the cryptography and inventor wether inflitrated or mis-ladded, behaved of confidential papers, documents have the open doors to the profiling list, examination and exhibitions yet in mix-up doing it conviently and considerably, constantly without any interior of past or dependency to stand on.
+  Done bunch of verifications starting off with paralysis, going to mimic and eventually over a language, a sign language, but seems that the cryptography and inventor wether inflitrated or mis-ladded, behaved of confidential papers, documents have the open doors to the profiling list, examination and exhibitions yet in mix-up doing it conviently and considerably, constantly without any interior of past or dependency to stand on. So over anything, a corpse is a corpse it gains no profit from the organization.
    - A frequency is conducted and applied as a fun.
 
   

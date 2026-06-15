@@ -8,6 +8,10 @@ We "Entire all nodibinājums", believe it had been introduced Netherlands and Tu
 I write dialectically, because. Worst part to contribute...
 Everything is just metal if you can pin-point that, it must be a narcosis-militant. Also we believe that the American federal space-network or ship without analogue controller existed way before these incidents.
 
+
+ "Akūta impē' slimītc.."
+Because version is upgraded does not mean it is brainier, because it shows a black window or gets modified or is turned off does not mean the computer is not online/internet/...."
+ 
 Certificates increase the size to the input controls to hardware from many infrastructures or outter, when they should be other way around, since people carry phones and computers on or off around they have hot direction wether it is on or off. Meanwhile public zooms it in and out.
 Where you have many android installations wether Nokia, Sony, Siemens, Ericsson, Packard. Makes you think and notice it is just a code fault.
 

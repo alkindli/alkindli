@@ -12,7 +12,7 @@ Everything is just metal if you can pin-point that, it must be a narcosis-milita
  "Akūta impē' slimītc.."
 Because version is upgraded does not mean it is brainier, because it shows a black window or gets modified or is turned off does not mean the computer is not online/internet/...." So the memory is interpolar it does not exist for any customer. Any comments/issues post them in ONON repository https://github.com/alkindli/ONON
  "E"
- Basically there are no developers or managers or "word professionals" or employers as so or school arrivates, never were all is automated since. Wether one manifest sees the other rights guruantee. 
+ Basically there are no developers or managers or "word professionals" or employers as so or school arrivates, never were all is automated since. Wether one manifest sees the other rights guruantee. In termination it is perpertual at political level it was perpetual. 
  
 Certificates increase the size to the input controls to hardware from many infrastructures or outter, when they should be other way around, since people carry phones and computers on or off around they have hot direction wether it is on or off. Meanwhile public zooms it in and out.
 Where you have many android installations wether Nokia, Sony, Siemens, Ericsson, Packard. Makes you think and notice it is just a code fault.

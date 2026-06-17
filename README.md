@@ -1,3 +1,5 @@
+Candi warning : Prominent to investigation En'.
+
 tp3ei5.mwd of which fingers are these? Touchpad can discharge your laptop quickly, "open sleep". Does not matter what system it is on.
 So you do not know which explorer or tab will open or close...
 Depends on three types network controller / wether it is high assurance, extended validator, terminal permissions insistive user "compromise", and the profiling that connects them all.

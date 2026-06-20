@@ -1,4 +1,4 @@
-  Bunch of operatives, hate to be advised, posts alike. You are not going to be happy. Wether it is or not baby stories, wife stories or dog shit. D. Cupoula.. and are highly interested
+  Bunch of operatives, hate to be advised, posts alike. You are not going to be happy. Wether it is or not baby stories, wife stories or dog shit. D. Cupoula.. and are highly interested then you be cooking pie, bare i don't.
   
 
 

@@ -14,4 +14,4 @@ It is Generic.
 ## Reporting a Vulnerability
 
 Use render filter first for internet explorer/desktop window manager and ~GLdirect.
-Do manual reset search.
+Do manual reset search. Third how to setup Windows XP.

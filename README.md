@@ -9,13 +9,7 @@
   
   
   
-  
-  <img width="2480" height="3508" alt="yellowpaper_A4_page_06" src="https://github.com/user-attachments/assets/d4336456-8a39-40f9-84fd-6b700b17b2b6" />
-<img width="2480" height="3508" alt="yellowpaper_A4_page_05" src="https://github.com/user-attachments/assets/dd804eae-76b2-4dd4-9662-92f9cf80134f" />
-<img width="2480" height="3508" alt="yellowpaper_A4_page_04" src="https://github.com/user-attachments/assets/e93bb65c-4dae-439e-91a6-a90943e661c3" />
-<img width="2480" height="3508" alt="yellowpaper_A4_page_03" src="https://github.com/user-attachments/assets/68f29f0d-0b57-4f24-a9a5-fd7da5eea04a" />
-<img width="2480" height="3508" alt="yellowpaper_A4_page_02" src="https://github.com/user-attachments/assets/a7a5d2ba-6875-46a1-b230-e3ae5f3094a8" />
-<img width="2480" height="3508" alt="yellowpaper_A4_page_01" src="https://github.com/user-attachments/assets/899dceb1-8359-49ff-a89e-82fdfc0f187b" />
+  usgeaierepertuarmy
 Bunch of operatives, hate to be advised, posts alike. You are not going to be happy. Wether it is or not baby stories, wife stories or dog shit. D. Cupoula.. and are highly interested then you be cooking pie, bare i don't.
   Writer was not defined nor grown it includes a bit of this and that, meaning of splitting any kind of a...
     Looks like a good "chair". We will discuss how big is the Cupoula. Spite its hair. One to You have to try to understand the story went from having and about You. What would be the country level backdoor, a association message or? Or same home stays as insulated and weardrobelike after fire with a picks and fire and... Without it there over gas or weapon that two latvians sign into contract visa and descent a dis'. there coming after. The possible, amusable.. None of it makes sense so sadly "telemtr' do" and terms too obvious. What you see today it is.

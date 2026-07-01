@@ -200,7 +200,7 @@ Destruction and rebinari
 
 
 
-   Who joins the 1. how you use the tool and killer:
+   Who joins the 1. how you use the tool and slay:
 
 
    Can it be register or Timberlake:

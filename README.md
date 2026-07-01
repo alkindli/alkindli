@@ -188,7 +188,10 @@ If its two for two, everything issues link well at least firmware/internet thats
 
 
    If/ you cannot get rid of that product or a science may as well get rid of it.
-
+Insertion and donation.
+Input delay over effects come first, not a desynchronizer
+The code on note ambulance
+Destruction and rebinari
 
 
 

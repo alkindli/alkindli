@@ -1,9 +1,9 @@
 copy the programmatic, try to be prorammatic and images, the  microsoft windows is world wide web interface
-we discuss ow necessirable it is to have it public world wide interface, when browser loads internal remote server data only because of display driver, meaning the servers do someting else they are not connected to internet, other display drivers will show other data, but on same interface microsoft windows and seem or look similar most often slightly the user personal data will be targeted and damaged and reloaded, loaded or desynchronize from display adapter even if recording is off.
+we discuss ow necessirable it is to have it public world wide interface, when browser loads internal remote server data only because of display driver, meaning the servers do someting else they are not connected to internet, other display drivers will show other data, but on same interface microsoft windows and seem or look similar most often slightly the user personal data will be targeted and damaged and reloaded, loaded or desynchronize from display adapter even if recording is off. Can it be toilets back? Or top of ceiling? Maybe buying...
  What is replication for? 
-  
-  
-  
+ You smacked your laptop without drivers is it supposed to load on the missle or change in resource monitor SSD storage data or cause event report? 
+ Why do you need two way restart for microsoft windows services? First stop then start and call it restart?
+ 
   
   
   
